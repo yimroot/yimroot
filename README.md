@@ -8,7 +8,7 @@
 <table width="100%">
   <tr>
     <td align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/yimroot/yimroot/main/d5db1a61-c08d-4237-9a99-3cbe4c4a4cdc.jpg" width="600" style="border-radius: 20px; border: 2px solid #333;" />
+      <img src="perfil.jpg" width="600" style="border-radius: 20px; border: 2px solid #333;" />
       <br><br>
       <p align="center">
         <a href="https://www.tiktok.com/@tu_mensaje_2?_r=1&_t=ZM-93B4vM1fT1H">
@@ -46,6 +46,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/-Odoo-714B83?logo=odoo&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" />
         <img src="https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white" />
       </p>
     </td>
@@ -54,6 +55,7 @@
       <p align="center">
         <img src="https://img.shields.io/badge/Nobara_OS-%232b629b?logo=linux&logoColor=white" />
         <img src="https://img.shields.io/badge/-AutoCAD-E62117?logo=autodesk&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SolidWorks-CC1F1F?logo=solidworks&logoColor=white" />
         <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
       </p>
     </td>
@@ -68,7 +70,7 @@
     <td width="50%" align="center" bgcolor="#1A1A1A" style="border: 1px solid #333;">
       <br />
       <b>📚 Sistema Biblioteca</b>
-      <p>Gestión de libros y préstamos en Odoo.</p>
+      <p>Gestión de libros y préstamos desarrollado en Odoo.</p>
       <a href="https://github.com/yimroot/biblioteca.git">
         <img src="https://img.shields.io/badge/Ver_Repo-black?style=flat-square&logo=github" />
       </a>
@@ -77,7 +79,7 @@
     <td width="50%" align="center" bgcolor="#1A1A1A" style="border: 1px solid #333;">
       <br />
       <b>🎨 Portafolio 3D</b>
-      <p>Modelados en SolidWorks e Inventor.</p>
+      <p>Modelados industriales y planos técnicos.</p>
       <a href="#">
         <img src="https://img.shields.io/badge/Galería-grey?style=flat-square" />
       </a>
