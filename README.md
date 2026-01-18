@@ -5,89 +5,93 @@
 
 ---
 
-<table>
+<table width="100%">
+  <tr>
+    <td align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/yimroot/yimroot/main/d5db1a61-c08d-4237-9a99-3cbe4c4a4cdc.jpg" width="600" style="border-radius: 20px; border: 2px solid #333;" />
+      <br><br>
+      <p align="center">
+        <a href="https://www.tiktok.com/@tu_mensaje_2?_r=1&_t=ZM-93B4vM1fT1H">
+          <img src="https://img.shields.io/badge/TIKTOK-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+        </a>
+        <a href="https://www.instagram.com/edy_saa_?igsh=MWIxbjRpOXE0OW0xbw==">
+          <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3>📊 Estadísticas de GitHub</h3>
+<table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://github.com/yimroot.png" width="220" style="border-radius: 20px; border: 3px solid #714B83;" />
-      <br>
-      <b>📍 Quito, Ecuador</b>
+      <img src="https://github-readme-stats.vercel.app/api?username=yimroot&show_icons=true&theme=radical&count_private=true" height="170px" />
     </td>
-    <td width="50%">
-      <h3>🚀 Sobre Mí</h3>
-      <p>Soy un <b>Programador Junior</b> y estudiante de Desarrollo de Software. Mi entorno de trabajo principal es <b>Nobara OS</b>, lo que me permite un flujo de trabajo ágil y eficiente.</p>
-      <ul>
-        <li>📚 Estudiante de Desarrollo de Software.</li>
-        <li>💡 Especialista en <b>Odoo</b> y <b>Python</b>.</li>
-        <li>🎨 Diseño técnico y modelado 3D (CAD/Adobe).</li>
-      </ul>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yimroot&layout=compact&theme=radical" height="170px" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yimroot&show_icons=true&theme=radical&count_private=true" alt="Estadísticas Generales" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yimroot&layout=compact&theme=radical" alt="Lenguajes más usados" height="180px" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yimroot&theme=radical&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
----
-
-### 🛠️ Mi Stack Tecnológico
-
-| **Categoría** | **Herramientas & Sistemas** |
-| :--- | :--- |
-| **Sistemas** | ![Nobara](https://img.shields.io/badge/Nobara_OS-%232b629b?logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white) |
-| **Backend** | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Odoo](https://img.shields.io/badge/-Odoo-714B83?logo=odoo&logoColor=white) |
-| **Bases de Datos** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **Diseño** | ![AutoCAD](https://img.shields.io/badge/-AutoCAD-E62117?logo=autodesk&logoColor=white) ![SolidWorks](https://img.shields.io/badge/-SolidWorks-CC1F1F?logo=solidworks&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white) |
-
----
-
-### 📂 Proyectos Destacados
-
-<table align="center">
+<h3>🛠️ Mi Stack Tecnológico</h3>
+<table width="100%">
   <tr>
-    <td width="50%" align="center" bgcolor="#1A1A1A">
-      <br />
-      <img src="https://img.icons8.com/fluency/48/000000/library.png" />
+    <td width="50%" valign="top" bgcolor="#1A1A1A">
+      <p align="center"><b>💻 Desarrollo & Backend</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Odoo-714B83?logo=odoo&logoColor=white" />
+        <img src="https://img.shields.io/badge/-PostgreSQL-316192?logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top" bgcolor="#1A1A1A">
+      <p align="center"><b>🎨 Diseño & Sistemas</b></p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Nobara_OS-%232b629b?logo=linux&logoColor=white" />
+        <img src="https://img.shields.io/badge/-AutoCAD-E62117?logo=autodesk&logoColor=white" />
+        <img src="https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h3>📂 Proyectos Destacados</h3>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" bgcolor="#1A1A1A" style="border: 1px solid #333;">
       <br />
       <b>📚 Sistema Biblioteca</b>
-      <p>Módulo personalizado en Odoo para gestión de libros y préstamos.</p>
+      <p>Gestión de libros y préstamos en Odoo.</p>
       <a href="https://github.com/yimroot/biblioteca.git">
-        <img src="https://img.shields.io/badge/Ver_Repositorio-black?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/Ver_Repo-black?style=flat-square&logo=github" />
       </a>
-      <br /> <br />
+      <br /><br />
     </td>
-    <td width="50%" align="center" bgcolor="#1A1A1A">
+    <td width="50%" align="center" bgcolor="#1A1A1A" style="border: 1px solid #333;">
       <br />
-      <img src="https://img.icons8.com/fluency/48/000000/code.png" />
-      <br />
-      <b>💻 Próximo Proyecto</b>
-      <p>Espacio reservado para futuros desarrollos y herramientas.</p>
+      <b>🎨 Portafolio 3D</b>
+      <p>Modelados en SolidWorks e Inventor.</p>
       <a href="#">
-        <img src="https://img.shields.io/badge/En_Desarrollo-grey?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Galería-grey?style=flat-square" />
       </a>
-      <br /> <br />
+      <br /><br />
     </td>
   </tr>
 </table>
 
 ---
 
-### 📫 Conectemos
-
-<p align="center">
-  <a href="mailto:edisonsaavedra4@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-edisonsaavedra4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 📫 Contacto
+<a href="mailto:edisonsaavedra4@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-edisonsaavedra4@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=100&section=footer" width="100%" />
 
